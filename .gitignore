@@ -58,3 +58,16 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+Assets/NuGet.config
+Assets/NuGet.config.meta
+Assets/NuGet.meta
+Assets/NuGet/
+Assets/packages.config
+Assets/packages.config.meta
+Assets/Packages.meta
+Assets/Packages/
+
+v0.0.0.app/
+1/
+1_BackUpThisFolder_ButDontShipItWithYourGame/
+1_BurstDebugInformation_DoNotShip/
